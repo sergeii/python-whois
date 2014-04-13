@@ -1,0 +1,36 @@
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to ipmt.rr.com:4321.
+
+%rwhois V-1.5:0020b0:00 ipmt.rr.com (by Time Warner Cable, Inc. V-1.0)
+network:Class-Name:network
+network:ID:NETBLK-ISRR-24.24.0.0-14
+network:Auth-Area:24.24.0.0/14
+network:Org-Name:Road Runner
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-03-02 10:39:59
+network:IP-Network:24.24.0.0/14
+network:Admin-Contact:IPADD-ARIN
+network:IP-Network-Range:24.24.0.0 - 24.27.255.255
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRR-24.24.0.0-14
+organization:Auth-Area:24.24.0.0/14
+organization:Org-Name:Road Runner
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:13820 Sunrise Valley Drive
+organization:City:Herndon
+organization:State:VA
+organization:Postal-Code:20171
+organization:Country-Code:US
+organization:Phone:703-345-3151
+organization:Updated:2014-03-02 10:39:59
+organization:Created:2014-03-02 10:39:59
+organization:Admin-Contact:IPADD-ARIN
+
+%ok

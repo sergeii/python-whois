@@ -1,0 +1,47 @@
+%rwhois V-1.5:0020b0:00 ipmt.rr.com (by Time Warner Cable, Inc. V-1.0)
+network:Class-Name:network
+network:ID:NETBLK-ISRR-74.72.0.0-15
+network:Auth-Area:74.72.0.0/15
+network:Org-Name:Road Runner
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-03-06 10:42:34
+network:IP-Network:74.72.0.0/15
+network:Admin-Contact:IPADD-ARIN
+network:IP-Network-Range:74.72.0.0 - 74.73.255.255
+
+network:Class-Name:network
+network:ID:NETBLK-ISRR-74.72.16.0-21
+network:Auth-Area:74.72.16.0/21
+network:Org-Name:Road Runner
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-03-06 10:42:35
+network:IP-Network:74.72.16.0/21
+network:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRR-74.72.0.0-15
+organization:Auth-Area:74.72.0.0/15
+organization:Org-Name:Road Runner
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:13820 Sunrise Valley Drive
+organization:City:Herndon
+organization:State:VA
+organization:Postal-Code:20171
+organization:Country-Code:US
+organization:Phone:703-345-3151
+organization:Updated:2014-03-06 10:42:34
+organization:Created:2014-03-06 10:42:34
+organization:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRR-74.72.16.0-21
+organization:Auth-Area:74.72.16.0/21
+organization:Org-Name:Road Runner
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:76-45 164th Street
+organization:City:Flushing
+organization:State:NY
+organization:Postal-Code:11366
+organization:Country-Code:US
+
+%ok

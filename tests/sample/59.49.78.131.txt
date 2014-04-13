@@ -1,0 +1,43 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '59.49.78.131 - 59.49.78.131'
+
+inetnum:        59.49.78.131 - 59.49.78.131
+netname:        SXTY-ZhenYi-NETBAR
+country:        CN
+descr:          ShanXi Telecom TaiYuan Branch IP Node Links To Customer IP Address
+admin-c:        sa49-ap
+tech-c:         st53-ap
+status:         ALLOCATED NON-PORTABLE
+changed:        sxipadmin@shanxitele.com 20080908
+mnt-by:         MAINT-CHINANET-SX
+source:         APNIC
+
+person:         shanxitele admin
+nic-hdl:        SA49-AP
+e-mail:         sxipadmin@shanxitele.com
+address:        no.217 nanneihuan street
+address:        taiyuan city 030012
+phone:          +86-351-5609863
+fax-no:         +86-351-5609868
+country:        cn
+changed:        sxipadmin@shanxitele.com 20080904
+mnt-by:         MAINT-CHINANET-SX
+source:         APNIC
+
+person:         shanxitele tech
+nic-hdl:        ST53-AP
+e-mail:         sxiptech@shanxitele.com
+address:        no.217 nanneihuan street
+address:        taiyuan city 030012
+phone:          +86-351-5609963
+fax-no:         +86-351-5609868
+country:        cn
+changed:        sxiptech@shanxitele.com 20040203
+mnt-by:         MAINT-CHINATELECOM-SX
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-03-06 05:17:30 (BRT -03:00)
+
+inetnum:     200.88.64/18
+status:      allocated
+aut-num:     N/A
+owner:       Compañía Dominicana de Teléfonos, C. por A. - CODETEL
+ownerid:     DO-CODE-LACNIC
+responsible: Timoteo Perez
+address:     Av. John F Kenedy, 54, 
+address:     1377 - Santo Domingo - DN
+country:     DO
+phone:       +1 809 2205832 []
+owner-c:     ABT
+tech-c:      ABT
+abuse-c:     ABT
+inetrev:     200.88.64/18
+nserver:     NSS1.CODETEL.NET.DO  
+nsstat:      20140303 AA
+nslastaa:    20140303
+nserver:     NSS2.CODETEL.NET.DO  
+nsstat:      20140303 AA
+nslastaa:    20140303
+created:     20030530
+changed:     20030530
+
+nic-hdl:     ABT
+person:      Abuse Team
+e-mail:      abuse@CODETEL.NET.DO
+address:     Av. Jhon F Kennedy # 54, 1101, 
+address:     1377 - Santo Domingo - DN
+country:     DO
+phone:       +1 809 2203331 []
+created:     20021127
+changed:     20110325
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

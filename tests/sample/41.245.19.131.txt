@@ -1,0 +1,70 @@
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+
+% Information related to '41.0.0.0 - 41.255.255.255'
+
+inetnum:      41.0.0.0 - 41.255.255.255
+netname:      AFRINIC-042005
+descr:
+descr:        AfriNIC - www.afrinic.net
+descr:        Allocation for Africa - This block is in use
+descr:        by AfriNIC for allocating/assigning to networks
+descr:        in the AfriNIC service region.
+descr:        More information - whois.afrinic.net.
+descr:        Abuse - please querry the whois db for the
+descr:        contacts of the assigned/allocated prefix.
+descr:
+country:      MU
+org:          ORG-AFNC1-AFRINIC
+admin-c:      TEAM-AFRINIC
+tech-c:       TEAM-AFRINIC
+status:       ALLOCATED UNSPECIFIED
+mnt-by:       AFRINIC-HM-MNT
+mnt-lower:    AFRINIC-HM-MNT
+source:       AFRINIC # Filtered
+parent:         0.0.0.0 - 255.255.255.255
+
+organisation:   ORG-AFNC1-AFRINIC
+org-name:       African Network Information Center - (AfriNIC Ltd)
+org-type:       RIR
+country:        MU
+address:        11th Floor,
+address:        Raffles Tower
+address:        Cyber City
+address:        Ebene
+e-mail:         contact@afrinic.net
+phone:          +230 403 5100
+fax-no:         +230 466 6758
+admin-c:        CA15-AFRINIC
+tech-c:         IT7-AFRINIC
+mnt-ref:        AFRINIC-HM-MNT
+mnt-ref:        AFRINIC-IT-MNT
+mnt-ref:        AFRINIC-DB-MNT
+mnt-by:         AFRINIC-HM-MNT
+remarks:        =======================================
+remarks:        For more information on AFRINIC assigned blocks,
+remarks:        querry whois.afrinic.net port 43, or the web based
+remarks:        query at http://whois.afrinic.net or www.afrinic.net
+remarks:        website: www.afrinic.net
+remarks:        Other Contacts:
+remarks:        ===============
+remarks:        hostmaster@afrinic.net  - for IP resources
+remarks:        new-member@afrinic.net  - for new members and other
+remarks:        inquiries.
+source:         AFRINIC # Filtered
+
+role:           AfriNIC TEAM
+address:        Raffles Tower - 11th Floor
+address:        Cybercity
+address:        Mauritius
+phone:          +230 403 5100
+fax-no:         +230 466 6758
+admin-c:        AA1-AFRINIC
+tech-c:         NG1-AFRINIC
+nic-hdl:        TEAM-AFRINIC
+e-mail:         sysadmin@afrinic.net
+mnt-by:         AFRINIC-DB-MNT
+source:         AFRINIC # Filtered
+
+

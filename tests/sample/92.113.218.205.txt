@@ -1,0 +1,44 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '92.113.0.0 - 92.113.255.255'
+
+% Abuse contact for '92.113.0.0 - 92.113.255.255' is 'aremiga@ukrtel.net'
+
+inetnum:        92.113.0.0 - 92.113.255.255
+netname:        UKRTELNET-ADSL
+descr:          NCC#2011011865 Approved IP assignment
+country:        ua
+remarks:        E-mail for SPAM and abuse  postmaster@ukrtel.net
+admin-c:        ARM42-RIPE
+tech-c:         ARM42-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS6849-MNT
+source:         RIPE # Filtered
+
+person:         Remiga Alexander
+address:        JSC UKRTELECOM
+address:        18, Shevchenko blvd
+address:        Ukraine, Kiev
+phone:          +380 (44) 230-9024
+nic-hdl:        ARM42-RIPE
+mnt-by:         AS6849-MNT
+source:         RIPE # Filtered
+
+% Information related to '92.113.192.0/18AS6849'
+
+route:          92.113.192.0/18
+descr:          AGGREGATE BLOCK FOR UKRTELECOM
+origin:         AS6849
+mnt-by:         AS6849-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS2)
+
+

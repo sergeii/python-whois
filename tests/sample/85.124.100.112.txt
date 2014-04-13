@@ -1,0 +1,63 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '85.124.100.0 - 85.124.100.255'
+
+% Abuse contact for '85.124.100.0 - 85.124.100.255' is 'abuse@upc.at'
+
+inetnum:        85.124.100.0 - 85.124.100.255
+netname:        MACH-DREI-DYNIPPOOL
+descr:
+descr:          Inode Telekommunikationsdienstleitung GesmbH
+descr:
+descr:
+country:        AT
+admin-c:        AH10082-RIPE
+tech-c:         AH10082-RIPE
+status:         ASSIGNED PA
+mnt-by:         AT-INODE-DOM
+source:         RIPE # Filtered
+remarks:        INFRA-AW
+
+role:           AT.INODE Hostmaster
+address:        UPC Austria GmbH
+address:        Technical Center
+address:        Wolfganggasse 58-60
+address:        A-1120 Wien
+address:        Austria
+admin-c:        AH10082-RIPE
+tech-c:         AH10082-RIPE
+nic-hdl:        AH10082-RIPE
+remarks:        ***************************************************************
+remarks:        please report abuse incidents (eg network scanning, spam, etc.)
+remarks:        ONLY to < abuse@inode.at >
+remarks:        ***************************************************************
+mnt-by:         AT-INODE-DOM
+source:         RIPE # Filtered
+
+% Information related to '85.124.0.0/15AS6830'
+
+route:          85.124.0.0/15
+descr:          UPC Austria GmbH
+origin:         AS6830
+mnt-by:         AS6830-MNT
+source:         RIPE # Filtered
+
+% Information related to '85.124.0.0/15AS8514'
+
+route:          85.124.0.0/15
+descr:          UPC Austria - B2B Networkblock
+origin:         AS8514
+mnt-by:         AT-INODE-DOM
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS4)
+
+
+

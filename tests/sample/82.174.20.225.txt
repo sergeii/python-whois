@@ -1,0 +1,92 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '82.172.0.0 - 82.175.255.255'
+
+% Abuse contact for '82.172.0.0 - 82.175.255.255' is 'abuse@as13127.net'
+
+inetnum:        82.172.0.0 - 82.175.255.255
+netname:        NL-VERSATEL-20030929
+descr:          Tele 2 Nederland B.V.
+country:        NL # BE GB DE LU
+org:            ORG-VT4-RIPE
+admin-c:        RVDK1-RIPE
+tech-c:         VT1029-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      AS13127-MNT
+mnt-routes:     AS13127-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-VT4-RIPE
+org-name:       Tele 2 Nederland B.V.
+org-type:       LIR
+address:        Tele 2 Nederland BV
+address:        Roy Huurman
+address:        Wisselwerking 58
+address:        1112 XS
+address:        Diemen
+address:        NETHERLANDS
+phone:          +31207501000
+fax-no:         +31207502001
+admin-c:        RH3392-RIPE
+admin-c:        RvdK1-RIPE
+admin-c:        VT1029-RIPE
+mnt-ref:        AS13127-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-mailbox:  abuse@as13127.net
+abuse-c:        VT1029-RIPE
+source:         RIPE # Filtered
+
+role:           VT HOSTMASTER
+address:        Wisselwerking 58
+address:        1112XS Diemen
+address:        The Netherlands
+admin-c:        RH3392-RIPE
+tech-c:         DZ1291-RIPE
+tech-c:         RH3392-RIPE
+tech-c:         JB6646-RIPE
+nic-hdl:        VT1029-RIPE
+remarks:        This is the Versatel hostmaster role
+remarks:        Please direct all queries to this role and *not* to person objects
+abuse-mailbox:  abuse@versatel.net
+abuse-mailbox:  abuse@as13127.net
+mnt-by:         AS13127-MNT
+source:         RIPE # Filtered
+
+person:         Rob van der Kooi
+address:        Tele2
+address:        Wisselwerking 58
+address:        NL-1112 XS  Diemen
+address:        Netherlands
+phone:          +31 (0)20 750 2146
+fax-no:         +31 (0)20 750 2001
+abuse-mailbox:  abuse@as13127.net
+nic-hdl:        RVDK1-RIPE
+remarks:        ------------------------------------------
+remarks:        For abuse issues please contact
+remarks:        abuse@as13127.net
+remarks:
+remarks:        Do not contact this person for abuse issues.
+remarks:        ------------------------------------------
+mnt-by:         AS13127-MNT
+source:         RIPE # Filtered
+
+% Information related to '82.172.0.0/14AS13127'
+
+route:          82.172.0.0/14
+descr:          Versatel customers
+origin:         AS13127
+mnt-by:         AS13127-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS3)
+
+

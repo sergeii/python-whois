@@ -1,0 +1,41 @@
+%rwhois V-1.5:0078b6:00 rwhois.gin.ntt.net (Vipar 0.1a. Comments to vipar@us.ntt.net)
+network:Class-Name:network
+network:Auth-Area:205.146.48.0/21
+network:ID:NETBLK-A005-205-146-52-0.127.0.0.1/32
+network:Handle:NETBLK-A005-205-146-52-0
+network:Network-Name:A005-205-146-52-0
+network:IP-Network:205.146.52.0/22
+network:In-Addr-Server;I:SERVI73-HST.127.0.0.1/32
+network:In-Addr-Server;I:COLON2-HST.127.0.0.1/32
+network:IP-Network-Block:205.146.52.0 - 205.146.55.255
+network:Org-Name:Robert Morris College
+network:Street-Address:881 Narrows Run Road,
+network:City:Moon Township
+network:State:PA
+network:Postal-Code:15108
+network:Country-Code:US
+network:Tech-Contact;I:ED-20991-VRIO.127.0.0.1/32
+network:Created:2001-12-05 21:12:05+00
+network:Updated:2006-10-20 00:22:03+00
+
+network:Class-Name:network
+network:Auth-Area:205.146.48.0/21
+network:ID:NETBLK-CGNT-205-146-048.127.0.0.1/32
+network:Handle:NETBLK-CGNT-205-146-048
+network:Network-Name:CGNT-205-146-048
+network:IP-Network:205.146.48.0/21
+network:In-Addr-Server;I:COGENT1-HST.127.0.0.1/32
+network:In-Addr-Server;I:COGENT2-HST.127.0.0.1/32
+network:IP-Network-Block:205.146.48.0 - 205.146.55.255
+network:Org-Name:Cogent Communications
+network:Street-Address:1015 31st ST NW
+network:City:Washington
+network:State:DC
+network:Postal-Code:20007
+network:Country-Code:US
+network:Tech-Contact;I:COGENT-VRIO.127.0.0.1/32
+network:Created:2006-03-30 21:41:14+00
+network:Updated:2008-03-14 20:59:58+00
+
+%ok
+

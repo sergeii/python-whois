@@ -1,0 +1,66 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.222.40.0 - 77.222.43.255'
+
+% Abuse contact for '77.222.40.0 - 77.222.43.255' is 'abuse@gpt.ru'
+
+inetnum:        77.222.40.0 - 77.222.43.255
+netname:        SpaceWeb
+descr:          SpaceWeb.ru Hosting Provider
+country:        RU
+admin-c:        SWN-RIPE
+tech-c:         SWN-RIPE
+status:         ASSIGNED PA
+mnt-by:         PETERHOST-MNT
+mnt-lower:      PETERHOST-MNT
+mnt-routes:     PETERHOST-MNT
+source:         RIPE # Filtered
+
+role:           SpaceWeb.Ru NOC
+address:        Russian Federation
+address:        196084, Saint-Petersburg
+address:        Tsvetochnaya ul., 18, of.137
+phone:          +7 812 3341222
+org:            ORG-SJ7-RIPE
+admin-c:        GPT-RIPE
+tech-c:         GPT-RIPE
+nic-hdl:        SWN-RIPE
+abuse-mailbox:  abuse@sweb.ru
+mnt-by:         PETERHOST-MNT
+source:         RIPE # Filtered
+
+% Information related to '77.222.40.0/22AS44112'
+
+route:          77.222.40.0/22
+descr:          SpaceWeb Hosting provider
+origin:         AS44112
+org:            ORG-SJ7-RIPE
+mnt-by:         PETERHOST-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-SJ7-RIPE
+org-name:       SpaceWeb CJSC
+org-type:       OTHER
+address:        Russian Federation
+address:        196084, Saint-Petersburg
+address:        Tsvetochnaya ul., 18, of.137
+phone:          +7 812 3341222
+fax-no:         +7 812 3341222
+abuse-mailbox:  abuse@sweb.ru
+admin-c:        GPT-RIPE
+tech-c:         GPT-RIPE
+mnt-ref:        SWEB-RIPE-MNT
+mnt-ref:        AS5537-MNT
+mnt-by:         AS5537-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS3)
+
+

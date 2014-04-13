@@ -1,0 +1,35 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '81.19.209.0 - 81.19.209.255'
+
+% Abuse contact for '81.19.209.0 - 81.19.209.255' is 'ripe@bandwidth.co.uk'
+
+inetnum:        81.19.209.0 - 81.19.209.255
+netname:        KillerCreation
+descr:          KillerCreation Networks Ltd - www.killercreation.co.uk
+country:        GB
+admin-c:        KILL-RIPE
+tech-c:         KILL-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-KILLER
+source:         RIPE # Filtered
+org:            ORG-LA25-RIPE
+
+% Information related to '81.19.208.0/20AS25369'
+
+route:          81.19.208.0/20
+descr:          Bandwidth Technologies Ltd
+origin:         AS25369
+mnt-by:         MNT-KILLER
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS2)
+
+

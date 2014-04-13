@@ -1,0 +1,49 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-03-07 03:21:46 (BRT -03:00)
+
+inetnum:     190.22.0/17
+status:      allocated
+aut-num:     N/A
+owner:       TELEFÓNICA CHILE S.A.
+ownerid:     CL-TCSA41-LACNIC
+responsible: Technical Contact Telefonica Chile S.A.
+address:     AVENIDA PROVIDENCIA, 111, COMUNA DE PROVIDENCIA
+address:     7500775 - SANTIAGO - RM
+country:     CL
+phone:       +56 2 3306932 []
+owner-c:     TCS5
+tech-c:      TCS5
+abuse-c:     TCS5
+inetrev:     190.22.0/17
+nserver:     NSAUT.TIE.CL  
+nsstat:      20140306 AA
+nslastaa:    20140306
+created:     20070418
+changed:     20110502
+
+nic-hdl:     TCS5
+person:      Technical Contact Telefonica Chile S.A.
+e-mail:      technical.isp.tch@GMAIL.COM
+address:     Miraflores, 130, Piso 6
+address:     8320215 - santiago - m
+country:     CL
+phone:       +56 2 6616815 []
+created:     20110502
+changed:     20140130
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

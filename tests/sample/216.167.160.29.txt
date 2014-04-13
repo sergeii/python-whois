@@ -1,0 +1,72 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=216.167.160.29?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       216.167.128.0 - 216.167.191.255
+CIDR:           216.167.128.0/18
+OriginAS:       
+NetName:        NTS-ONLINE-1BLK
+NetHandle:      NET-216-167-128-0-1
+Parent:         NET-216-0-0-0-0
+NetType:        Direct Allocation
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+RegDate:        1999-08-03
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-167-128-0-1
+
+OrgName:        NTS Communications
+OrgId:          NTSC
+Address:        1220 BROADWAY
+Address:        SEVENTH FLOOR
+City:           LUBBOCK
+StateProv:      TX
+PostalCode:     79401
+Country:        US
+RegDate:        1996-04-05
+Updated:        2013-05-13
+Ref:            http://whois.arin.net/rest/org/NTSC
+
+OrgAbuseHandle: ABUSE1760-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-806-788-2999 
+OrgAbuseEmail:  abuse@nts-online.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1760-ARIN
+
+OrgTechHandle: MWSJ-ARIN
+OrgTechName:   Schober, Jr., Milton W.
+OrgTechPhone:  +1-806-771-4710 
+OrgTechEmail:  mschober@ntscom.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MWSJ-ARIN
+
+OrgNOCHandle: MWSJ-ARIN
+OrgNOCName:   Schober, Jr., Milton W.
+OrgNOCPhone:  +1-806-771-4710 
+OrgNOCEmail:  mschober@ntscom.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/MWSJ-ARIN
+
+OrgTechHandle: PEMBE7-ARIN
+OrgTechName:   Pemberton, Jaret 
+OrgTechPhone:  +1-806-771-4709 
+OrgTechEmail:  jaretp@ntscom.com
+OrgTechRef:    http://whois.arin.net/rest/poc/PEMBE7-ARIN
+
+RTechHandle: ZN72-ARIN
+RTechName:   Hostmaster
+RTechPhone:  +1-806-797-0687 
+RTechEmail:  hostmaster@nts-online.net
+RTechRef:    http://whois.arin.net/rest/poc/ZN72-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

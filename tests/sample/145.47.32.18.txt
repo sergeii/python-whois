@@ -1,0 +1,38 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '145.47.0.0 - 145.47.255.255'
+
+% No abuse contact registered for 145.47.0.0 - 145.47.255.255
+
+inetnum:        145.47.0.0 - 145.47.255.255
+netname:        HEIN-NETH
+descr:          Heineken NV
+country:        NL
+admin-c:        PD572-RIPE
+tech-c:         PD572-RIPE
+status:         ASSIGNED PA
+remarks:        GSI-NIC Type: Commercial
+mnt-by:         SN-LIR-NONE-MNT
+source:         RIPE # Filtered
+
+person:         PF van Dijk
+address:        Heineken NV
+address:        Burg. Smeetsweg 1
+address:        NL - 2382 PH Zoeterwoude
+address:        The Netherlands
+phone:          +31 71 5456266
+fax-no:         +31 71 5458055
+nic-hdl:        PD572-RIPE
+mnt-by:         SN-LIR-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS2)
+
+

@@ -1,0 +1,55 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-03-07 00:03:07 (BRT -03:00)
+
+inetnum:     189.132.72/24
+status:      reassigned
+owner:       Gestión de direccionamiento UniNet
+ownerid:     MX-GDUN-LACNIC
+responsible: Gestión de cambios y configuraciones
+address:     Periferico Sur, 3190, 
+address:     01900 - México DF - DF
+country:     MX
+phone:       +52 55 56244400 []
+owner-c:     DCA
+tech-c:      DCA
+abuse-c:     SRU
+created:     20070915
+changed:     20120901
+inetnum-up:  189.128/11
+
+nic-hdl:     DCA
+person:      GESTION DE CAMBIOS
+e-mail:      gccips1@REDUNO.COM.MX
+address:     PERIFERICO SUR, 3190, ALVARO OBREG
+address:     01900 - MEXICO DF - DF
+country:     MX
+phone:       +52 5 556244400 []
+created:     20021210
+changed:     20111027
+
+nic-hdl:     SRU
+person:      SEGURIDAD DE RED UNINET
+e-mail:      abuse@UNINET.NET.MX
+address:     PERIFERICO SUR, 3190, ALVARO OBREG
+address:     01900 - MEXICO - DF
+country:     MX
+phone:       +52 55 52237234 []
+created:     20030701
+changed:     20030703
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

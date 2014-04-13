@@ -1,0 +1,20 @@
+%rwhois V-1.5:003eff:00 rwhois.infowest.com (by Network Solutions, Inc. V-1.5.9.6)
+network:Class-Name:network
+network:ID:INFOWEST-NET-209-33-192-0-18
+network:Auth-Area:209.33.192.0/18
+network:Network-Name:INFOWEST-NET-209-33-192-0-18
+network:IP-Network:209.33.192.0/18
+network:IP-Network-Block:209.33.192.0-209.33.255.255
+network:Org-Name:InfoWest, Inc
+network:Street-Address:148 E. Tabernacle
+network:City:St. George
+network:State:UT
+network:Postal-Code:84770
+network:Country-Code:USA
+network:Phone:435-674-0164
+network:Email:info@infowest.com
+network:Created:1140654032
+network:Updated:1140654032
+network:Updated-By:ipadmin@infowest.com
+
+%ok

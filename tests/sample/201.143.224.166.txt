@@ -1,0 +1,52 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-03-06 02:16:24 (BRT -03:00)
+
+inetnum:     201.143.192/18
+status:      allocated
+aut-num:     N/A
+owner:       Telefonos del Noroeste, S.A. de C.V.
+ownerid:     MX-TNSC1-LACNIC
+responsible: Maria del Carmen Sotelo Salazar
+address:     Pio Pico, 1525, Zona Centro
+address:     22000 - Tijuana - BC
+country:     MX
+phone:       +52 664 6332215 []
+owner-c:     LRG
+tech-c:      LRG
+abuse-c:     LRG
+inetrev:     201.143.192/18
+nserver:     DNS.TELNOR.NET  
+nsstat:      20140305 AA
+nslastaa:    20140305
+nserver:     DNS2.TELNOR.NET  
+nsstat:      20140305 AA
+nslastaa:    20140305
+created:     20060519
+changed:     20060519
+
+nic-hdl:     LRG
+person:      Luis Rodolfo Nevarez Garcia
+e-mail:      rone@TELNOR.COM
+address:     Pio Pico, 1525, Zona Centro
+address:     22000 - Tijuana - BC
+country:     MX
+phone:       +52 664 6332215 []
+created:     20021209
+changed:     20110617
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

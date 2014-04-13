@@ -1,0 +1,46 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-03-07 00:44:54 (BRT -03:00)
+
+inetnum:     201.230.239.0/25
+status:      reallocated
+owner:       PE-TDPERX9-LACNIC
+ownerid:     PE-PETD13-LACNIC
+responsible: TELEFONICA DEL PERU
+address:     SAN FELIPE, 1144, SURQUILLO
+address:     34 - LIMA - 
+country:     PE
+phone:       +51 1 215301 []
+owner-c:     GRT2
+tech-c:      GRT2
+abuse-c:     GRT2
+created:     20051215
+changed:     20051215
+inetnum-up:  201.230.224/20
+inetnum-up:  201.230.128/17
+
+nic-hdl:     GRT2
+person:      Gestion Dir. IP Telefónica del Perú
+e-mail:      gestionip@TELEFONICA.NET.PE
+address:     Calle San Felipe 1144, 1144, 
+address:     LI34 - Lima - LI
+country:     PE
+phone:       +51 1 2106771 []
+created:     20021204
+changed:     20030923
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

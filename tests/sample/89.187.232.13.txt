@@ -1,0 +1,74 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '89.187.224.0 - 89.187.239.255'
+
+% Abuse contact for '89.187.224.0 - 89.187.239.255' is 'abuse@internetia.pl'
+
+inetnum:        89.187.224.0 - 89.187.239.255
+netname:        AIRBITES
+descr:          Internetia - Krakow, Wroclaw, Bielsko-Biala
+country:        PL
+org:            ORG-ABPS1-RIPE
+admin-c:        IRPR1-RIPE
+tech-c:         IRPR1-RIPE
+status:         ASSIGNED PA
+mnt-by:         INTERNETIA-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-ABPS1-RIPE
+org-name:       Internetia Sp.z o.o.
+org-type:       LIR
+address:        ul. Poleczki 13
+address:        02-822
+address:        Warszawa
+address:        POLAND
+phone:          +48126309987
+fax-no:         +48126310448
+abuse-c:        AR16413-RIPE
+abuse-mailbox:  abuse@internetia.pl
+admin-c:        RPOZ-RIPE
+admin-c:        PT5976-RIPE
+admin-c:        MM18723-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        INTERNETIA-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+role:           Internetia Region Poludnie Role
+address:        Internetia Sp. z o.o.
+address:        NOC-Krakow
+address:        ul. Poleczki 13
+address:        02-822 Warszawa
+address:        Poland
+abuse-mailbox:  abuse@internetia.pl
+phone:          +48126309987
+fax-no:         +48126310448
+admin-c:        RPOZ-RIPE
+admin-c:        MM18723-RIPE
+tech-c:         RPOZ-RIPE
+tech-c:         MM18723-RIPE
+tech-c:         DS1102-RIPE
+tech-c:         PK4259-RIPE
+tech-c:         BG6379-RIPE
+nic-hdl:        IRPR1-RIPE
+mnt-by:         INTERNETIA-MNT
+source:         RIPE # Filtered
+
+% Information related to '89.187.224.0/19AS43939'
+
+route:          89.187.224.0/19
+descr:          Internetia - Krakow, Wroclaw, Bielsko-Biala
+origin:         AS43939
+mnt-by:         INTERNETIA-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS2)
+
+

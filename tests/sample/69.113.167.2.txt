@@ -1,0 +1,109 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=69.113.167.2?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       69.113.166.0 - 69.113.167.255
+CIDR:           69.113.166.0/23
+OriginAS:       AS6128
+NetName:        OOL-CPE-MHWHNJ-69-113-166-0-23
+NetHandle:      NET-69-113-166-0-1
+Parent:         NET-69-112-0-0-1
+NetType:        Reassigned
+RegDate:        2013-10-09
+Updated:        2013-10-09
+Ref:            http://whois.arin.net/rest/net/NET-69-113-166-0-1
+
+CustName:       Optimum Online (Cablevision Systems)
+Address:        111 New South Road
+City:           Hicksville
+StateProv:      NY
+PostalCode:     11801
+Country:        US
+RegDate:        2013-10-09
+Updated:        2013-10-09
+Ref:            http://whois.arin.net/rest/customer/C04726337
+
+OrgTechHandle: OH4-ORG-ARIN
+OrgTechName:   OOL Hostmaster
+OrgTechPhone:  +1-516-803-3000 
+OrgTechEmail:  hostmaster@cv.net
+OrgTechRef:    http://whois.arin.net/rest/poc/OH4-ORG-ARIN
+
+OrgAbuseHandle: OOLAB-ARIN
+OrgAbuseName:   OOL Hostmaster
+OrgAbusePhone:  +1-516-803-2400 
+OrgAbuseEmail:  abuse@cv.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/OOLAB-ARIN
+
+RTechHandle: OH4-ORG-ARIN
+RTechName:   OOL Hostmaster
+RTechPhone:  +1-516-803-3000 
+RTechEmail:  hostmaster@cv.net
+RTechRef:    http://whois.arin.net/rest/poc/OH4-ORG-ARIN
+
+# end
+
+
+# start
+
+NetRange:       69.112.0.0 - 69.127.255.255
+CIDR:           69.112.0.0/12
+OriginAS:       AS6148
+NetName:        NETBLK-OOL-6BLK
+NetHandle:      NET-69-112-0-0-1
+Parent:         NET-69-0-0-0-0
+NetType:        Direct Allocation
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+RegDate:        2004-01-15
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-69-112-0-0-1
+
+OrgName:        Optimum Online
+OrgId:          OPTO
+Address:        111 new south RD
+City:           Hicksville
+StateProv:      NY
+PostalCode:     11801
+Country:        US
+RegDate:        1999-07-29
+Updated:        2011-12-20
+Ref:            http://whois.arin.net/rest/org/OPTO
+
+OrgTechHandle: OH4-ORG-ARIN
+OrgTechName:   OOL Hostmaster
+OrgTechPhone:  +1-516-803-3000 
+OrgTechEmail:  hostmaster@cv.net
+OrgTechRef:    http://whois.arin.net/rest/poc/OH4-ORG-ARIN
+
+OrgAbuseHandle: OOLAB-ARIN
+OrgAbuseName:   OOL Hostmaster
+OrgAbusePhone:  +1-516-803-2400 
+OrgAbuseEmail:  abuse@cv.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/OOLAB-ARIN
+
+RTechHandle: OH4-ORG-ARIN
+RTechName:   OOL Hostmaster
+RTechPhone:  +1-516-803-3000 
+RTechEmail:  hostmaster@cv.net
+RTechRef:    http://whois.arin.net/rest/poc/OH4-ORG-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

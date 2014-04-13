@@ -1,0 +1,47 @@
+%rwhois V-1.5:0020b0:00 ipmt.rr.com (by Time Warner Cable, Inc. V-1.0)
+network:Class-Name:network
+network:ID:NETBLK-ISRR-76.180.0.0-16
+network:Auth-Area:76.180.0.0/16
+network:Org-Name:Road Runner
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-03-06 10:43:20
+network:IP-Network:76.180.0.0/16
+network:Admin-Contact:IPADD-ARIN
+network:IP-Network-Range:76.180.0.0 - 76.180.255.255
+
+network:Class-Name:network
+network:ID:NETBLK-ISRR-76.180.96.0-19
+network:Auth-Area:76.180.96.0/19
+network:Org-Name:Road Runner
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-03-06 10:43:21
+network:IP-Network:76.180.96.0/19
+network:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRR-76.180.0.0-16
+organization:Auth-Area:76.180.0.0/16
+organization:Org-Name:Road Runner
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:13820 Sunrise Valley Drive
+organization:City:Herndon
+organization:State:VA
+organization:Postal-Code:20171
+organization:Country-Code:US
+organization:Phone:703-345-3151
+organization:Updated:2014-03-06 10:43:20
+organization:Created:2014-03-06 10:43:20
+organization:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRR-76.180.96.0-19
+organization:Auth-Area:76.180.96.0/19
+organization:Org-Name:Road Runner
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:978 Maple Road
+organization:City:Amherst
+organization:State:NY
+organization:Postal-Code:14221
+organization:Country-Code:US
+
+%ok

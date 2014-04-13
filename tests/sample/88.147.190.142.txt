@@ -1,0 +1,42 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '88.147.176.0 - 88.147.195.255'
+
+% Abuse contact for '88.147.176.0 - 88.147.195.255' is 'ripe@rt.ru'
+
+inetnum:        88.147.176.0 - 88.147.195.255
+netname:        SAN
+descr:          Network of Saratov branch of OJSC "Volgatelecom"
+country:        RU
+admin-c:        AVB35-RIPE
+tech-c:         AVB35-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-SAN
+mnt-domains:    MNT-SAN
+source:         RIPE # Filtered
+
+person:         Alexey V Bogdanov
+address:        JSC "VolgaTelecom", Saratov Branch Office
+address:        Mirny pereulok 11/13 410000 Saratov Russia
+phone:          +7 8452 757575
+nic-hdl:        AVB35-RIPE
+source:         RIPE # Filtered
+
+% Information related to '88.147.128.0/17AS39229'
+
+route:          88.147.128.0/17
+descr:          SAN route object
+origin:         AS39229
+mnt-by:         mnt-san
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS2)
+
+

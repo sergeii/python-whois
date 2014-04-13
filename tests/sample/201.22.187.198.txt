@@ -1,0 +1,63 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-03-07 03:23:31 (BRT -03:00)
+
+inetnum:     201.22/16
+aut-num:     AS18881
+abuse-c:     GOI
+owner:       Global Village Telecom
+ownerid:     003.420.926/0002-05
+responsible: Eng&Op Dados
+country:     BR
+owner-c:     GEI26
+tech-c:      GVO6
+inetrev:     201.22.187/24
+nserver:     dns1.gvt.net.br 
+nsstat:      20140302 AA
+nslastaa:    20140302
+nserver:     dns2.gvt.net.br 
+nsstat:      20140302 AA
+nslastaa:    20140302
+nserver:     dns3.gvt.net.br 
+nsstat:      20140302 AA
+nslastaa:    20140302
+created:     20041118
+changed:     20041119
+
+nic-hdl-br:  GEI26
+person:      GVT - Equipe de redes IT
+e-mail:      registro@gvt.com.br
+created:     20021107
+changed:     20120627
+
+nic-hdl-br:  GOI
+person:      GVT - Operacoes Internet
+e-mail:      abuse@gvt.com.br
+created:     20050112
+changed:     20110222
+
+nic-hdl-br:  GVO6
+person:      GVT Operacao
+e-mail:      operacao@gvt.com.br
+created:     20010613
+changed:     20100713
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

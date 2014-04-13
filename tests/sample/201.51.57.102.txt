@@ -1,0 +1,54 @@
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-03-06 04:19:34 (BRT -03:00)
+
+inetnum:     201.50/15
+aut-num:     AS7738
+abuse-c:     CGR13
+owner:       Telemar Norte Leste S.A.
+ownerid:     033.000.118/0001-79
+responsible: Daniel Advogados
+country:     BR
+owner-c:     HAOGO
+tech-c:      CGR13
+inetrev:     201.51/16
+nserver:     ns4.telemar.net.br 
+nsstat:      20140302 AA
+nslastaa:    20140302
+nserver:     ns2.telemar.net.br 
+nsstat:      20140302 AA
+nslastaa:    20140302
+created:     20050816
+changed:     20110610
+
+nic-hdl-br:  CGR13
+person:      Centro de Gerencia de Rede TELEMAR
+e-mail:      abuse@telemar.net.br
+created:     20000605
+changed:     20091103
+
+nic-hdl-br:  HAOGO
+person:      Halliny Oliveira Gomes
+e-mail:      thais.souza@oi.net.br
+created:     20060628
+changed:     20120224
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+
